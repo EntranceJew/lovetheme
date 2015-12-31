@@ -4,7 +4,7 @@ Here's a handy reference guide:
 * **love** the old 3.0 love theme
 * **grouplove** the clone of prosilver to put fixes for 3.0
 
-Contact me on IRC to get details for the staging site.
+Contact me on IRC to get details for the staging site. Or don't.
 
 # Reference Material
 * [phpBB 3.1 imageset removal](https://wiki.phpbb.com/PhpBB3.1/Imagesets_Removal
