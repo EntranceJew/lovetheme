@@ -60,6 +60,10 @@ body {
 	text-overflow: ellipsis;
 }
 
+#site-description p, .search-header {
+	display: none;
+}
+
 #love_header {
 	background-image: url("./images/love_left.png");
 	background-position: left;
