@@ -1,9 +1,10 @@
 /*  phpBB3 Style Sheet
     --------------------------------------------------------------
-	Style name:			prosilver (the default phpBB 3.1.x style)
-	Based on style:		
+	Style name:			grouplove
+	Based on style:		prosilver (the default phpBB 3.1.x style)
 	Original author:	Tom Beddard ( http://www.subblue.com/ )
 	Modified by:		phpBB Limited ( https://www.phpbb.com/ )
+	Modified again by:	EnranceJew ( http://ejew.in/ )
     --------------------------------------------------------------
 */
 
@@ -15,3 +16,4 @@
 @import url("forms.css");
 @import url("colours.css");
 @import url("imageset.css");
+@import url("love.css");
