@@ -2,7 +2,7 @@
 Here's a handy reference guide:
 * **prosilver** the stock phpBB 3.1
 * **love** the old 3.0 love theme
-* **grouplove** the clone of prosilver to put fixes for 3.0
+* **grouplove** the clone of prosilver to make more like the `love` theme
 
 Contact me on IRC to get details for the staging site. Or don't.
 
