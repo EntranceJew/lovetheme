@@ -64,6 +64,10 @@ body {
 	display: none;
 }
 
+#love_header {
+	background-image: url("./images/love_left.png");
+}
+
 /* Navigation
 ----------------------------------------*/
 .headerbar + .navbar {
