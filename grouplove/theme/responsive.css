@@ -66,6 +66,7 @@ body {
 
 #love_header {
 	background-image: url("./images/love_left.png");
+	background-position: left;
 }
 
 /* Navigation
