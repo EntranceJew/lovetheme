@@ -63,7 +63,32 @@
 
 <!-- EVENT overall_header_head_append -->
 
+<script type="text/javascript" src="/MathJax/MathJax.js">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX","output/HTML-CSS"],
+    tex2jax: {inlineMath: [["\\(","\\)"]]}
+  });
+</script>
+
 {$STYLESHEETS}
+
+<script type="text/javascript" src="/highlightjs/highlight.pack.js">
+hljs.configure({useBR: true});
+function hljs_init() {
+	var elements = document.getElementsByTagName("code");
+	for (var i = 0; i < elements.length; i++) {
+		hljs.highlightBlock(elements[i]);
+	}
+};
+onload_functions.push("hljs_init()");
+</script>
+
+<style>
+dl.codebox {
+	background-color: rgb(248, 248, 255); /* Match the highlighting background */
+}
+</style>
 
 <!-- EVENT overall_header_stylesheets_after -->
 
