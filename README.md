@@ -1,6 +1,6 @@
 # lovetheme
 Here's a handy reference guide:
-* **prosilver** the stock phpBB 3.1
+* **prosilver** the stock phpBB 3.2
 * **love** the old 3.0 love theme
 * **grouplove** the clone of prosilver to make more like the `love` theme
 
