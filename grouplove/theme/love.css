@@ -67,17 +67,7 @@ body {
 }
 
 #wrap {
-	margin: 0 auto 0 auto;
 	border: 1px;
-	padding: 10px;
-}
-
-li.header dt, li.header dd {
-	font-size: 10px;
-}
-
-ul.topiclist dl {
-	width: 100%;
 }
 
 .content > img {
