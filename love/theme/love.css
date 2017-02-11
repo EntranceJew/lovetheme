@@ -1,4 +1,3 @@
-
 nav {
 	padding: 1em;
 	background-color: #dcefff;
@@ -62,6 +61,20 @@ body {
 	background-image: url("{T_THEME_PATH}/images/love_right.png"), url("{T_THEME_PATH}/images/love_left.png");
 	background-position: bottom right, top left;
 	background-repeat: no-repeat, no-repeat;
+}
+
+#wrap {
+	margin: 0 auto 0 auto;
+	border: 1px;
+	padding: 10px;
+}
+
+li.header dt, li.header dd {
+	font-size: 10px;
+}
+
+ul.topiclist dl {
+	width: 100%;
 }
 
 .content > img {
