@@ -92,3 +92,12 @@ ul.topiclist dl {
 .codebox code {
 	color: #000;
 }
+
+.search-header {
+	box-shadow: none;
+}
+
+ul.navlinks {
+	border-top: none;
+	border-bottom: 1px solid #FFFFFF;
+}
