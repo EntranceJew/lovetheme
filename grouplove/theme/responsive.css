@@ -37,11 +37,6 @@
   	}
 }
 
-#love_header {
-	background-image: url("./images/love_left.png");
-	background-position: left;
-}
-
 @media (max-width: 500px) {
 	dd label {
 		white-space: normal;
